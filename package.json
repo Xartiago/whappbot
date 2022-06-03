@@ -1,0 +1,19 @@
+{
+  "name": "whappbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.0.1",
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "^1.16.6"
+  }
+}
